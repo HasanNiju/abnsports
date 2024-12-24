@@ -65,3 +65,9 @@ header{
 .navbar a.active{
     color: var(--main-color);
 }
+
+.notice{
+    margin-top: 8%;
+    margin-left: 25%;
+    width: 50%;
+}
